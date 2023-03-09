@@ -1,1 +1,2 @@
-# c--paper-rock-scissors
+# c#--paper-rock-scissors
+Para practicar cualquier lenguaje siempre hago un piedra papel o tijera xd
